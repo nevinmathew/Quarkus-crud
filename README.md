@@ -4,11 +4,15 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
+## Quarkus Initializer
+
+You can use the [Quarkus Initializer](https://code.quarkus.io/) to discover and learn about extensions that can significantly enhance the capabilities of your Quarkus applications. It provides a resource for quickly generating Quarkus projects with the desired extensions and dependencies.
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
 ```shell script
-./mvnw compile quarkus:dev
+./mvnw clean compile quarkus:dev
 ```
 
 > **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
