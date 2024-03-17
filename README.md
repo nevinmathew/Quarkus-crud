@@ -3,6 +3,7 @@
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+Here is a good source of [documentation](https://gandrille.github.io/tech-notes/Reactive_and_microservices/Java_microframeworks/Quarkus/2020%20quarkus-fascicle-understanding-v1.pdf)
 
 ## Quarkus Initializer
 
